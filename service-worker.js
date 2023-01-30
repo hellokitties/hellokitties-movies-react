@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hellokitties-movies-react/precache-manifest.c5f9f2af357bd5b9348fed0c3b0fd511.js"
+  "/hellokitties-movies-react/precache-manifest.3c4496cae307b417a03ec73880904310.js"
 );
 
 workbox.clientsClaim();

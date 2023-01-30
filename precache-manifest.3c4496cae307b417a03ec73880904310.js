@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9f8d2bbbe87e91ffbd89",
+    "revision": "393f910acd58537f080b",
     "url": "/hellokitties-movies-react/static/css/main.70fb3945.chunk.css"
   },
   {
-    "revision": "9f8d2bbbe87e91ffbd89",
-    "url": "/hellokitties-movies-react/static/js/main.9f8d2bbb.chunk.js"
+    "revision": "393f910acd58537f080b",
+    "url": "/hellokitties-movies-react/static/js/main.393f910a.chunk.js"
   },
   {
     "revision": "022280761d4275f8b4b5",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/hellokitties-movies-react/static/js/runtime~main.45001854.js"
   },
   {
-    "revision": "71727b1d4470be06da5242d711ff7b53",
+    "revision": "3e01915019ddb3936775a6146a180322",
     "url": "/hellokitties-movies-react/index.html"
   }
 ];
